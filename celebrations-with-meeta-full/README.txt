@@ -1,0 +1,1 @@
+Full editable multi-page website. Uses supplied images and new logo. Public copy is based on Celebrations With Meeta listings and Best of SLC recognition. Connect form/email and confirmed social URLs before launch.

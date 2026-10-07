@@ -1,0 +1,1 @@
+document.querySelectorAll('form').forEach(f=>f.addEventListener('submit',e=>{e.preventDefault();alert('Thank you. This inquiry form is ready to connect to Meeta’s email or CRM.');}));
